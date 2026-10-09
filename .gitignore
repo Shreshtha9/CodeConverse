@@ -1,0 +1,14 @@
+# secrets
+.env
+.env.*
+!.env.example
+*.pem
+application-local.properties
+# build and IDE
+target/
+.idea/
+*.iml
+.vscode/
+node_modules/
+.next/
+*.log
